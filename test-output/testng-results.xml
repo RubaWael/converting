@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="18" passed="18" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-04-07T14:56:10 IDT" name="Default suite" finished-at="2021-04-07T14:56:10 IDT" duration-ms="169">
+    <groups>
+    </groups>
+    <test started-at="2021-04-07T14:56:10 IDT" name="Default test" finished-at="2021-04-07T14:56:10 IDT" duration-ms="169">
+      <class name="convert.TestConverting">
+        <test-method signature="testway1(java.lang.String, java.lang.String)[pri:0, instance:convert.TestConverting@343570b7]" started-at="2021-04-07T14:56:10 IDT" name="testway1" data-provider="test" finished-at="2021-04-07T14:56:10 IDT" duration-ms="11" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[RUBA]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[ruba]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testway1 -->
+        <test-method signature="testway1(java.lang.String, java.lang.String)[pri:0, instance:convert.TestConverting@343570b7]" started-at="2021-04-07T14:56:10 IDT" name="testway1" data-provider="test" finished-at="2021-04-07T14:56:10 IDT" duration-ms="3" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[R@UBA]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[r@uba]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testway1 -->
+        <test-method signature="testway1(java.lang.String, java.lang.String)[pri:0, instance:convert.TestConverting@343570b7]" started-at="2021-04-07T14:56:10 IDT" name="testway1" data-provider="test" finished-at="2021-04-07T14:56:10 IDT" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[R(UB/#*_-)A]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[r(ub/#*_-)a]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testway1 -->
+        <test-method signature="testway1(java.lang.String, java.lang.String)[pri:0, instance:convert.TestConverting@343570b7]" started-at="2021-04-07T14:56:10 IDT" name="testway1" data-provider="test" finished-at="2021-04-07T14:56:10 IDT" duration-ms="9" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[R1UBa]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[r1uba]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testway1 -->
+        <test-method signature="testway1(java.lang.String, java.lang.String)[pri:0, instance:convert.TestConverting@343570b7]" started-at="2021-04-07T14:56:10 IDT" name="testway1" data-provider="test" finished-at="2021-04-07T14:56:10 IDT" duration-ms="4" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ruba]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[ruba]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testway1 -->
+        <test-method signature="testway1(java.lang.String, java.lang.String)[pri:0, instance:convert.TestConverting@343570b7]" started-at="2021-04-07T14:56:10 IDT" name="testway1" data-provider="test" finished-at="2021-04-07T14:56:10 IDT" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[R A]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[r a]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testway1 -->
+        <test-method signature="testway2(java.lang.String, java.lang.String)[pri:0, instance:convert.TestConverting@343570b7]" started-at="2021-04-07T14:56:10 IDT" name="testway2" data-provider="test" finished-at="2021-04-07T14:56:10 IDT" duration-ms="5" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[RUBA]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[ruba]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testway2 -->
+        <test-method signature="testway2(java.lang.String, java.lang.String)[pri:0, instance:convert.TestConverting@343570b7]" started-at="2021-04-07T14:56:10 IDT" name="testway2" data-provider="test" finished-at="2021-04-07T14:56:10 IDT" duration-ms="5" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[R@UBA]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[r@uba]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testway2 -->
+        <test-method signature="testway2(java.lang.String, java.lang.String)[pri:0, instance:convert.TestConverting@343570b7]" started-at="2021-04-07T14:56:10 IDT" name="testway2" data-provider="test" finished-at="2021-04-07T14:56:10 IDT" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[R(UB/#*_-)A]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[r(ub/#*_-)a]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testway2 -->
+        <test-method signature="testway2(java.lang.String, java.lang.String)[pri:0, instance:convert.TestConverting@343570b7]" started-at="2021-04-07T14:56:10 IDT" name="testway2" data-provider="test" finished-at="2021-04-07T14:56:10 IDT" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[R1UBa]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[r1uba]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testway2 -->
+        <test-method signature="testway2(java.lang.String, java.lang.String)[pri:0, instance:convert.TestConverting@343570b7]" started-at="2021-04-07T14:56:10 IDT" name="testway2" data-provider="test" finished-at="2021-04-07T14:56:10 IDT" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ruba]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[ruba]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testway2 -->
+        <test-method signature="testway2(java.lang.String, java.lang.String)[pri:0, instance:convert.TestConverting@343570b7]" started-at="2021-04-07T14:56:10 IDT" name="testway2" data-provider="test" finished-at="2021-04-07T14:56:10 IDT" duration-ms="3" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[R A]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[r a]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testway2 -->
+        <test-method signature="testway3(java.lang.String, java.lang.String)[pri:0, instance:convert.TestConverting@343570b7]" started-at="2021-04-07T14:56:10 IDT" name="testway3" data-provider="test" finished-at="2021-04-07T14:56:10 IDT" duration-ms="3" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[RUBA]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[ruba]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testway3 -->
+        <test-method signature="testway3(java.lang.String, java.lang.String)[pri:0, instance:convert.TestConverting@343570b7]" started-at="2021-04-07T14:56:10 IDT" name="testway3" data-provider="test" finished-at="2021-04-07T14:56:10 IDT" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[R@UBA]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[r@uba]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testway3 -->
+        <test-method signature="testway3(java.lang.String, java.lang.String)[pri:0, instance:convert.TestConverting@343570b7]" started-at="2021-04-07T14:56:10 IDT" name="testway3" data-provider="test" finished-at="2021-04-07T14:56:10 IDT" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[R(UB/#*_-)A]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[r(ub/#*_-)a]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testway3 -->
+        <test-method signature="testway3(java.lang.String, java.lang.String)[pri:0, instance:convert.TestConverting@343570b7]" started-at="2021-04-07T14:56:10 IDT" name="testway3" data-provider="test" finished-at="2021-04-07T14:56:10 IDT" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[R1UBa]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[r1uba]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testway3 -->
+        <test-method signature="testway3(java.lang.String, java.lang.String)[pri:0, instance:convert.TestConverting@343570b7]" started-at="2021-04-07T14:56:10 IDT" name="testway3" data-provider="test" finished-at="2021-04-07T14:56:10 IDT" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ruba]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[ruba]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testway3 -->
+        <test-method signature="testway3(java.lang.String, java.lang.String)[pri:0, instance:convert.TestConverting@343570b7]" started-at="2021-04-07T14:56:10 IDT" name="testway3" data-provider="test" finished-at="2021-04-07T14:56:10 IDT" duration-ms="11" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[R A]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[r a]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testway3 -->
+      </class> <!-- convert.TestConverting -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
